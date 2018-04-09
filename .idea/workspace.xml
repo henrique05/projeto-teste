@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a33195d3-6217-44d1-885b-11ec18df7d1b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="chamado-formulario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chamado-formulario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1224">
+              <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="enviar-email.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/enviar-email.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="75" column="25" lean-forward="true" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>topCasafina-</find>
+      <find>\n\	\	\n\	\&lt;header\&gt;\n\	\	\&lt;nav class\=\&quot;navbar navbar\-default\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;container\&quot;\&gt;\n\n\	\	\	\	\&lt;div class\=\&quot;navbar\-header\&quot;\&gt;\n\	\	\	\	\	\&lt;button type\=\&quot;button\&quot; class\=\&quot;navbar\-toggle collapsed\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#collapse\-navbar\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n\	\	\	\	\	\	\&lt;span class\=\&quot;sr\-only\&quot;\&gt;Toggle navigation\&lt;\/span\&gt;\n\	\	\	\	\	\	\&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n\	\	\	\	\	\	\&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n\	\	\	\	\	\	\&lt;span class\=\&quot;icon\-bar\&quot;\&gt;\&lt;\/span\&gt;\n\	\	\	\	\	\&lt;\/button\&gt;\n\n\	\	\	\	\	\&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\#\&quot;\&gt;TopCasaFina Arquitetura\&lt;\/a\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;collapse\-navbar\&quot;\&gt;\n\	\	\	\	\	\&lt;ul class\=\&quot;nav navbar\-nav\&quot;\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;\#sobre\-nos\&quot;\&gt;Sobre Nós\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;\#nossos\-projetos\&quot;\&gt;Nossos Projetos\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;\#depoimentos\&quot;\&gt;Depoimentos\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\	\&lt;li\&gt;\&lt;a href\=\&quot;\#contato\&quot;\&gt;Contato\&lt;\/a\&gt;\&lt;\/li\&gt;\n\	\	\	\	\	\&lt;\/ul\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/nav\&gt;\n\n\	\	\&lt;div class\=\&quot;container topCasaFina\-bannerWrapper\&quot;\&gt;\n\	\	\	\&lt;div class\=\&quot;topCasaFina\-banner\&quot;\&gt;\n\	\	\	\	\&lt;h1\&gt;TopCasaFina Arquitetura\&lt;\/h1\&gt;\n\	\	\	\	\&lt;p\&gt;Projetando a casa dos sonhos desde 2000 A\.C\&lt;\/p\&gt;\n\	\	\	\	\&lt;button class\=\&quot;btn btn\-primary btn\-lg\&quot;\&gt;Contate\-nos agora\&lt;\/button\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\n\	\&lt;\/header\&gt;\n\n\	\&lt;section id\=\&quot;sobre\-nos\&quot; class\=\&quot;container\&quot;\&gt;\n\	\	\&lt;h2\&gt;Sobre Nós\&lt;\/h2\&gt;\n\	\	\&lt;div class\=\&quot;row\&quot;\&gt;\n\	\	\	\&lt;img class\=\&quot;img\-responsive col\-sm\-6\&quot; src\=\&quot;assets\/img\/empresa\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n\n\	\	\	\&lt;div class\=\&quot;panel\-group col\-sm\-6\&quot; id\=\&quot;paineis\-sobre\&quot;\&gt;\n\	\	\	\	\&lt;div class\=\&quot;panel panel\-default\&quot;\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;panel\-heading\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#primeiro\-paragrafo\&quot; data\-parent\=\&quot;\#paineis\-sobre\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3 class\=\&quot;panel\-title\&quot;\&gt;Desde 1935\&lt;\/h3\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\	\&lt;div class\=\&quot;collapse in\&quot; id\=\&quot;primeiro\-paragrafo\&quot;\&gt;\n\	\	\	\	\	\	\&lt;div class\=\&quot;panel\-body\&quot;\&gt;\n\	\	\	\	\	\	\	Desde 1935 trazendo casas\, mansões e prédios lindos para o mundo\n\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\&lt;div class\=\&quot;panel panel\-default\&quot;\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;panel\-heading\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#segundo\-paragrafo\&quot; data\-parent\=\&quot;\#paineis\-sobre\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3 class\=\&quot;panel\-title\&quot;\&gt;Alegria em colaborar para um mundo mais bonito\&lt;\/h3\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\	\&lt;div id\=\&quot;segundo\-paragrafo\&quot; class\=\&quot;collapse\&quot;\&gt;\n\	\	\	\	\	\	\&lt;div class\=\&quot;panel\-body\&quot;\&gt;\n\	\	\	\	\	\	\	Trazendo alegria para a vida das pessoas que tem dinheiro para gastar\.\n\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\&lt;div class\=\&quot;panel panel\-default\&quot;\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;panel\-heading\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#terceiro\-paragrafo\&quot; data\-parent\=\&quot;\#paineis\-sobre\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3 class\=\&quot;panel\-title\&quot;\&gt;Mais de 300 prêmios em design e em conforto\.\&lt;\/h3\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\	\&lt;div id\=\&quot;terceiro\-paragrafo\&quot; class\=\&quot;collapse\&quot;\&gt;\n\	\	\	\	\	\	\&lt;div class\=\&quot;panel\-body\&quot;\&gt;\n\	\	\	\	\	\	\	Mais de 5 milhões de clientes satisfeitos em todo o mundo\.\n\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\n\	\&lt;\/section\&gt;\n\n\	\&lt;div class\=\&quot;jumbotron\&quot;\&gt;\n\	\	\&lt;div class\=\&quot;container\&quot;\&gt;\n\	\	\	\&lt;h3\&gt;Mais de 300 prêmios em design e em conforto\.\&lt;\/h3\&gt;\n\	\	\	\&lt;p\&gt;Mais de 5 milhões de clientes satisfeitos em todo o mundo\.\&lt;\/p\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/div\&gt;\n\n\	\&lt;section id\=\&quot;nossos\-projetos\&quot; class\=\&quot;container\&quot;\&gt;\n\	\	\&lt;h2\&gt;Nossos Projetos\&lt;\/h2\&gt;\n\n\	\	\&lt;div class\=\&quot;row\&quot;\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;col\-sm\-6 col\-md\-4 col\-lg\-3\&quot;\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;thumbnail\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/projetos\/casa\-castelo\.png\&quot; alt\=\&quot;\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Casa Castelo\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;\n\	\	\	\	\	\	\	A Casa Castelo é o último lançamento da TopCasaFina Arquitetura\, feita para um monge\.\n\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;col\-sm\-6 col\-md\-4 col\-lg\-3\&quot;\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;thumbnail\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/projetos\/casa\-lago\.png\&quot; alt\=\&quot;\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Casa Castelo\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;\n\	\	\	\	\	\	\	A Casa do Lago foi lar de inúmeras pessoas que conheciam o presidente da época\.\n\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;col\-sm\-6 col\-md\-4 col\-lg\-3\&quot;\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;thumbnail\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/projetos\/mercado\-marapira\.png\&quot; alt\=\&quot;\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Casa Castelo\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;\n\	\	\	\	\	\	\	O mercado Marapira foi projetado nos mínimos detalhes na arquitetura baseada em frutas\.\n\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;col\-sm\-6 col\-md\-4 col\-lg\-3\&quot;\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;thumbnail\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/projetos\/palacio\-dionisio\.png\&quot; alt\=\&quot;\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Palácio Dionísio\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;\n\	\	\	\	\	\	\	O palácio Dionísio foi eleito pela revista \'Grandes palácios\' como o palácio mais lindo do mundo\.\n\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;div class\=\&quot;col\-sm\-6 col\-md\-4 col\-lg\-3\&quot;\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;thumbnail\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/projetos\/residencia\-ludi\.png\&quot; alt\=\&quot;\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Residência Ludi\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;\n\	\	\	\	\	\	\	A residência Ludi foi projetada para ser a mais bela casa de São Paulo pela revista Housing\.\n\	\	\	\	\	\	\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\&lt;\/div\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/section\&gt;\n\n\	\&lt;section id\=\&quot;depoimentos\&quot;\&gt;\n\n\	\	\&lt;h2 class\=\&quot;container titulo\-depoimentos\&quot;\&gt;Depoimentos de Clientes\&lt;\/h2\&gt;\n\n\	\	\&lt;div id\=\&quot;carousel\-example\-generic\&quot; class\=\&quot;carousel slide\&quot; data\-ride\=\&quot;carousel\&quot;\&gt;\n\	\	\	\&lt;\!\-\- Indicators \-\-\&gt;\n\	\	\	\&lt;ol class\=\&quot;carousel\-indicators\&quot;\&gt;\n\	\	\	\	\&lt;li data\-target\=\&quot;\#carousel\-example\-generic\&quot; data\-slide\-to\=\&quot;0\&quot; class\=\&quot;active\&quot;\&gt;\&lt;\/li\&gt;\n\	\	\	\	\&lt;li data\-target\=\&quot;\#carousel\-example\-generic\&quot; data\-slide\-to\=\&quot;1\&quot;\&gt;\&lt;\/li\&gt;\n\	\	\	\	\&lt;li data\-target\=\&quot;\#carousel\-example\-generic\&quot; data\-slide\-to\=\&quot;2\&quot;\&gt;\&lt;\/li\&gt;\n\	\	\	\&lt;\/ol\&gt;\n\n\	\	\	\&lt;\!\-\- Wrapper for slides \-\-\&gt;\n\	\	\	\&lt;div class\=\&quot;carousel\-inner\&quot; role\=\&quot;listbox\&quot;\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;item active\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/depoimentos\/depoimento1\.png\&quot; alt\=\&quot;Depoimento 1\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;carousel\-caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Yuri Padilha\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;Gostei muito e achei rápido o serviço\.\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;item\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/depoimentos\/depoimento2\.png\&quot; alt\=\&quot;Depoimento 2\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;carousel\-caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Fernando Stafaneni\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;Excelente trabalho\.\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\	\&lt;figure class\=\&quot;item\&quot;\&gt;\n\	\	\	\	\	\&lt;img src\=\&quot;assets\/img\/depoimentos\/depoimento3\.png\&quot; alt\=\&quot;Depoimento 3\&quot;\&gt;\n\	\	\	\	\	\&lt;figcaption class\=\&quot;carousel\-caption\&quot;\&gt;\n\	\	\	\	\	\	\&lt;h3\&gt;Caio Sauzas\&lt;\/h3\&gt;\n\	\	\	\	\	\	\&lt;p\&gt;Gostei\, competência em primeiro lugar\.\&lt;\/p\&gt;\n\	\	\	\	\	\&lt;\/figcaption\&gt;\n\	\	\	\	\&lt;\/figure\&gt;\n\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\&lt;a class\=\&quot;left carousel\-control\&quot; href\=\&quot;\#carousel\-example\-generic\&quot; role\=\&quot;button\&quot; data\-slide\=\&quot;prev\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;glyphicon glyphicon\-chevron\-left\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/span\&gt;\n\	\	\	\	\&lt;span class\=\&quot;sr\-only\&quot;\&gt;Previous\&lt;\/span\&gt;\n\	\	\	\&lt;\/a\&gt;\n\	\	\	\&lt;a class\=\&quot;right carousel\-control\&quot; href\=\&quot;\#carousel\-example\-generic\&quot; role\=\&quot;button\&quot; data\-slide\=\&quot;next\&quot;\&gt;\n\	\	\	\	\&lt;span class\=\&quot;glyphicon glyphicon\-chevron\-right\&quot; aria\-hidden\=\&quot;true\&quot;\&gt;\&lt;\/span\&gt;\n\	\	\	\	\&lt;span class\=\&quot;sr\-only\&quot;\&gt;Next\&lt;\/span\&gt;\n\	\	\	\&lt;\/a\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/section\&gt;\n\n\	\&lt;div class\=\&quot;container\&quot;\&gt;\n\	\	\&lt;div class\=\&quot;row\&quot;\&gt;\n\	\	\	\&lt;section id\=\&quot;video\&quot; class\=\&quot;col\-sm\-6\&quot;\&gt;\n\n\	\	\	\	\&lt;h2\&gt;Video institucional\&lt;\/h2\&gt;\n\	\	\	\	\&lt;div class\=\&quot;embed\-responsive embed\-responsive\-16by9\&quot;\&gt;\n\	\	\	\	\	\&lt;iframe width\=\&quot;560\&quot; height\=\&quot;315\&quot; src\=\&quot;https\:\/\/www\.youtube\.com\/embed\/i_3Pv1AygeI\&quot; frameborder\=\&quot;0\&quot; allowfullscreen\&gt;\&lt;\/iframe\&gt;\n\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\&lt;\/section\&gt;\n\n\	\	\	\&lt;section id\=\&quot;contato\&quot; class\=\&quot;col\-sm\-6\&quot;\&gt;\n\	\	\	\	\&lt;h2\&gt;Contato\&lt;\/h2\&gt;\n\	\	\	\	\&lt;h4\&gt;Entre em contato conosco\&lt;\/h4\&gt;\n\n\	\	\	\	\&lt;form\&gt;\n\	\	\	\	\	\&lt;div class\=\&quot;form\-group\&quot;\&gt;\n\	\	\	\	\	\	\&lt;label for\=\&quot;contato\-nome\&quot;\&gt;Nome\:\&lt;\/label\&gt;\n\	\	\	\	\	\	\&lt;input id\=\&quot;contato\-nome\&quot; class\=\&quot;form\-control\&quot; type\=\&quot;text\&quot; placeholder\=\&quot;Seu nome\&quot;\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\	\&lt;div class\=\&quot;form\-group\&quot;\&gt;\n\	\	\	\	\	\	\&lt;label for\=\&quot;contato\-email\&quot;\&gt;E\-mail\:\&lt;\/label\&gt;\n\	\	\	\	\	\	\&lt;div class\=\&quot;input\-group\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;div class\=\&quot;input\-group\-addon\&quot;\&gt;\@\&lt;\/div\&gt;\n\	\	\	      \	\&lt;input id\=\&quot;contato\-email\&quot; class\=\&quot;form\-control\&quot; type\=\&quot;email\&quot; placeholder\=\&quot;Seu e\-mail\&quot;\&gt;\n\	\	      \	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\	\&lt;div class\=\&quot;grupo\-radio\&quot;\&gt;\n\	\	\	\	\	\	\&lt;div class\=\&quot;radio\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;label\&gt;\n\	\	\	\	\	\	\	\	\&lt;input type\=\&quot;radio\&quot; name\=\&quot;tipo\-pessoa\&quot; value\=\&quot;fisica\&quot; checked\&gt;\n\	\	\	\	\	\	\	\	Pessoa física\n\	\	\	\	\	\	\	\&lt;\/label\&gt;\n\	\	\	\	\	\	\&lt;\/div\&gt;\n\n\	\	\	\	\	\	\&lt;div class\=\&quot;radio\&quot;\&gt;\n\	\	\	\	\	\	\	\&lt;label\&gt;\n\	\	\	\	\	\	\	\	\&lt;input type\=\&quot;radio\&quot; name\=\&quot;tipo\-pessoa\&quot; value\=\&quot;juridica\&quot;\&gt;\n\	\	\	\	\	\	\	\	Pessoa jurídica\n\	\	\	\	\	\	\	\&lt;\/label\&gt;\n\	\	\	\	\	\	\&lt;\/div\&gt;\n\	\	\	\	\	\&lt;\/div\&gt;\&lt;\!\-\-\n\n\	\	\	\	\	\-\-\&gt;\&lt;select class\=\&quot;contato\-select form\-control\&quot; name\=\&quot;tipo\-solicitacao\&quot;\&gt;\n\	\	\	\	\	\	\&lt;option value\=\&quot;\&quot; disabled selected\&gt;Tipo de solicitação\&lt;\/option\&gt;\n\	\	\	\	\	  \&lt;option value\=\&quot;casa\&quot;\&gt;Casa\&lt;\/option\&gt;\n\	\	\	\	\	  \&lt;option value\=\&quot;apartamento\&quot;\&gt;Apartamento\&lt;\/option\&gt;\n\	\	\	\	\	  \&lt;option value\=\&quot;mansao\&quot;\&gt;Mansão\&lt;\/option\&gt;\n\	\	\	\	\	\&lt;\/select\&gt;\n\n\	\	\	\	\	\&lt;button type\=\&quot;submit\&quot; class\=\&quot;btn btn\-primary\&quot;\&gt;Enviar\&lt;\/button\&gt;\n\n\	\	\	\	\&lt;\/form\&gt;\n\	\	\	\&lt;\/section\&gt;\n\	\	\&lt;\/div\&gt;\n\	\&lt;\/div\&gt;\n\n\	\&lt;footer\&gt;\n\	\	\&lt;address\&gt;\n\	\	\	\&lt;strong\&gt;TopCasaFina Arquitetura\&lt;\/strong\&gt;\&lt;br\&gt;\n\	\	\	Rua Vergueiro\, 3185\, Vila Mariana\&lt;br\&gt;\n\	\	\	São Paulo\, SP\&lt;br\&gt;\n\	\	\	Tel\: \(11\) 5571\-2751 ou 5083\-3884\n\	\	\&lt;\/address\&gt;\n\	\	\&lt;address\&gt;\n\	\	\	E\-mail\: contato\.topcasafina\@alura\.com\.br\n\	\	\&lt;\/address\&gt;\n\	\&lt;\/footer\&gt;\n\n\	\&lt;script src\=\&quot;assets\/js\/jquery\.js\&quot;\&gt;\&lt;\/script\&gt;\n\	\&lt;script src\=\&quot;assets\/bootstrap\/js\/bootstrap\.min\.js\&quot;\&gt;\&lt;\/script\&gt;\n\	\&lt;script src\=\&quot;assets\/js\/navbar\-animation\-fix\.js\&quot;\&gt;\&lt;\/script\&gt;\n</find>
+      <find>topCasaFina</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>newWork</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\teste</dir>
+      <dir>C:\xampp\htdocs\teste\assets\js</dir>
+      <dir>C:\xampp\htdocs\teste\assets\css</dir>
+      <dir>C:\xampp\htdocs\teste\index.php</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/email.php" />
+        <option value="$PROJECT_DIR$/enviar-email.php" />
+        <option value="$PROJECT_DIR$/assets/css/estilos.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1319" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidFunction</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="teste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teste" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="teste" type="b2602c69:ProjectViewProjectNode" />
+              <item name="teste" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../new_work" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a33195d3-6217-44d1-885b-11ec18df7d1b" name="Default" comment="" />
+      <created>1523230664766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523230664766</updated>
+      <workItem from="1523230671413" duration="15459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15459000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1319" height="784" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16500384" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833335" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/chamado-formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/enviar-email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bootstrap/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/navbar-animation-fix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chamado-formulario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="68" column="5" lean-forward="true" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="25" lean-forward="true" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
